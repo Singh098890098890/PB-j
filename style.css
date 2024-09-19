@@ -1,0 +1,33 @@
+html {
+    background-color: maroon;
+  }
+  
+  body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+    width: 500px;
+    margin: 30 auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+  }
+  
+  h1 {
+    column-rule-color: maroon;
+  }
+  
+  h1 {
+    color: maroon;
+  }
+  
+  h1,
+  h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  a {
+    color: maroon;
+  }
+  
